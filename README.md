@@ -1,7 +1,10 @@
 # groupproject
 
 A new Flutter project.
-
+# note
+This project builds a simple scrollable Expense List UI using Flutter list widgets. 
+I created a reusable ExpenseItem widget inside a Card to display the title, amount, and date of each expense. 
+The list uses ListView.separated to render dummy expenses and also shows an empty state message when there are no expenses.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
